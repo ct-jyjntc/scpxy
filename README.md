@@ -2,4 +2,4 @@
 
 使用码：testapp
 
-购买“MACOS APP测试”套餐
+选择“MACOS APP测试”，填入就能用了

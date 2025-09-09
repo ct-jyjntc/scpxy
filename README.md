@@ -4,6 +4,7 @@
 
 选择“MACOS APP测试”，填入就能用了
 
-![](https://youke1.picui.cn/s1/2025/09/08/68be95285488e.png)
-![](https://youke1.picui.cn/s1/2025/09/08/68be95284d4d8.png)
-![](https://youke1.picui.cn/s1/2025/09/08/68be95cf7d101.png)
+![](https://youke1.picui.cn/s1/2025/09/09/68bfc25096565.png)
+![](https://youke1.picui.cn/s1/2025/09/09/68bfc250a4214.png)
+![](https://youke1.picui.cn/s1/2025/09/09/68bfc2507645d.png)
+![](https://youke1.picui.cn/s1/2025/09/09/68bfc250b2df5.png)

@@ -2,7 +2,7 @@
 
 使用码：testapp
 
-选择“MACOS APP测试”，填入就能用了
+选择“APP测试”，填入就能用了
 
 ![](https://img.cdn1.vip/i/68c10f0b281a5_1757482763.webp)
 ![](https://img.cdn1.vip/i/68c10ef6238c2_1757482742.webp)

@@ -4,7 +4,9 @@
 
 选择“APP测试”，填入就能用了
 
-![](https://img.cdn1.vip/i/68c10f0b281a5_1757482763.webp)
-![](https://img.cdn1.vip/i/68c10ef6238c2_1757482742.webp)
-![](https://img.cdn1.vip/i/68c10f0c8c7e6_1757482764.webp)
-![](https://img.cdn1.vip/i/68c10f07f2cf6_1757482759.webp)
+![image](https://i.111666.best/image/ErJznCBvN2aPbLRn2iN8r7.png)
+![image](https://i.111666.best/image/6hOStO4N9sNB4GhPJVr2n9.png)
+![image](https://i.111666.best/image/iQJbHjVXHlP8BIrGTRd10v.png)
+![image](https://i.111666.best/image/19tI7gTAKEorSuVVDXKv47.png)
+![image](https://i.111666.best/image/jbNlSm2JOqWyzFORaMfEi4.png)
+![image](https://i.111666.best/image/AL76sWTRht1MQMlCGJvIEW.png)

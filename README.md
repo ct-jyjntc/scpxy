@@ -1,6 +1,7 @@
 安装后请在终端中输入：
 
 xattr -cr /Applications/Scpxy.app
+
 xattr -dr com.apple.quarantine /Applications/Scpxy.app
 
 用以激活应用
